@@ -16,7 +16,7 @@ Repositório criado para o projeto da disciplina de Programação 2, demonstrand
 ---
 
 ## 🎯 Objetivo da Entrega 2
-Nesta segunda etapa do projeto, o professor solicitou a evolução do sistema base para incluir conceitos mais robustos de segurança de dados e gerenciamento dinâmico de memória. As principais exigências foram:
+Nesta segunda etapa do projeto, foi solicitado a evolução do sistema base para incluir conceitos mais robustos de segurança de dados e gerenciamento dinâmico de memória. As principais exigências foram:
 1. Aplicação de **Encapsulamento** (atributos `private` com métodos `get` e `set`).
 2. Substituição de vetores fixos (Arrays) por **Listas Dinâmicas** (`ArrayList`).
 3. Implementação de um sistema de **CRUD** (Create, Read, Update, Delete) através de uma classe principal com menu interativo, permitindo adicionar, listar, editar e remover objetos criados.
